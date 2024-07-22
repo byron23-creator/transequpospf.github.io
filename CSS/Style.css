@@ -1,0 +1,53 @@
+.navbar {
+    margin-left: 20px;
+}
+
+body {
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+body #testimonios{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body #mapa {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body #descripcion{
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+body #servicios {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#banner {
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#servicios .card {
+    margin-bottom: 20px;
+}
+
+#descripcion img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.testimonial img {
+    height: 100px;
+    width: 100px;
+    border-radius: 20%;
+}
+
+footer a {
+    color: grey;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
